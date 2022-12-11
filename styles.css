@@ -1,6 +1,7 @@
 	    <style>
 
     body {
+         margin: auto;
         display:flex;
         -webkit-align-items:center;
         align-items:center;
